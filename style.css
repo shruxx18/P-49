@@ -1,0 +1,21 @@
+h1{
+    color:whitesmoke;
+}
+.Class1{
+    background-color: palevioletred;
+}
+.menu{
+    font-style: italic;
+    color: whitesmoke;
+}
+h2,p{
+    font-size: medium;
+    color:bisque;
+    text-align: center;
+}
+Body{
+    background-color: black;
+}
+h3{
+    color:whitesmoke;
+}
